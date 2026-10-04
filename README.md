@@ -1,5 +1,4 @@
-# USC_Package_Tool_Box
-USC Package Tool Box
+# USC Package Tool Box
 
 The tool box currently contains the following tools:
 
