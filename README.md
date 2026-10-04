@@ -1,7 +1,8 @@
 # USC_Package_Tool_Box
 USC Package Tool Box
 
-The tool box contains the following tools:
+The tool box currently contains the following tools:
+
 1: preflight combo
   - preflight.sh: installs all the necessary tools for using and installing the USC package into a cluster with
                   the respective versions depicted in the package's usc-manifest.json fail of the USC package
